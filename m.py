@@ -142,7 +142,7 @@ def handle_reset_attacks(message):
 
 @bot.message_handler(commands=['start'])
 def welcome_message(message):
-    bot.reply_to(message, "❄️ Welcome to the Premium DDoS Bot. Use to view available commands 𝙔𝙊𝙐𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 /start\n/resetattacks\n/attack\n/add\n\n𝘿𝙈 -@KaliaYtOwner 𝙏𝙊 𝘽𝙐𝙔 𝙋𝘼𝙄𝘿 𝘿𝘿𝙊𝙎 𝘼𝙇𝙇 𝘼𝙏𝙏𝘼𝘾𝙆 𝙒𝙊𝙍𝙆𝙄𝙉𝙂 ✅\n MAKE SURE RESETATTACKS AFTER 10 ATTACK ")
+    bot.reply_to(message, "❄️ Welcome to the Premium DDoS Bot. Use to view available commands 𝙔𝙊𝙐𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 /start\n/resetattacks\n/attack\n/add\n\n𝘿𝙈 -@MEXDEVLOPER 𝙏𝙊 𝘽𝙐𝙔 𝙋𝘼𝙄𝘿 𝘿𝘿𝙊𝙎 𝘼𝙇𝙇 𝘼𝙏𝙏𝘼𝘾𝙆 𝙒𝙊𝙍𝙆𝙄𝙉𝙂 ✅\n MAKE SURE RESETATTACKS AFTER UNLIMITED ATTACK ")
 
 # Start the bot
 while True:
